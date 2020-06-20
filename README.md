@@ -2,8 +2,8 @@
 #Name- Rishi Gopal Mahajan
 #Regression Problem
 You have been provided with two csv files:
-dataset.csv
-prediction.csv
+    dataset.csv
+    prediction.csv
 Instructions to work on the regression problem:
 
 The dataset.csv file contains 9 features and 1 target column whereas the prediction.csv file contains just the features columns
