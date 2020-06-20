@@ -1,8 +1,7 @@
 # CCTECH_Programming-Challenge
 #Name- Rishi Gopal Mahajan
-Regression Problem
+#Regression Problem
 You have been provided with two csv files:
-
 dataset.csv
 prediction.csv
 Instructions to work on the regression problem:
@@ -11,7 +10,7 @@ The dataset.csv file contains 9 features and 1 target column whereas the predict
 You are expected to train a ML model using the dataset.csv file and predict the target for the features of prediction.csv
 Add the predicted target column to the prediction.csv file with the column header "target"
 
-Classification Problem
+#Classification Problem
 You have been provided with two csv files:
 
 challenge2_dataset.csv
